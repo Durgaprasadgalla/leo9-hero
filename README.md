@@ -54,33 +54,56 @@ This project recreates the **Hero Section and Navbar** of the Leo9 Studio websit
 ## Folder Structure
 
 leo9-hero/
+
 ├── public/
+
 │ └── vite.svg
+
 ├── src/
+
 │ ├── assets/
+
 │ │ └── react.svg
+
 │ ├── components/
+
 │ │ ├── About.jsx
+
 │ │ ├── About.css
+
 │ │ ├── Contact.jsx
+
 │ │ ├── Contact.css
+
 │ │ ├── Footer.jsx
+
 │ │ ├── Footer.css
+
 │ │ ├── Hero.jsx
+
 │ │ ├── Hero.css
+
 │ │ ├── Navbar.jsx
+
 │ │ ├── Navbar.css
+
 │ │ ├── SectionOne.jsx
+
 │ │ ├── SectionOne.css
+
 │ │ ├── SectionTwo.jsx
+
 │ │ └── SectionTwo.css
+
 │ ├── App.jsx
+
 │ └── main.jsx
+
 ├── package.json
+
 ├── vite.config.js
+
 └── README.md
-
-
 ---
 
 ## Installation & Setup
