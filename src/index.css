@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  font-family: 'Inter', sans-serif;
+  height: 100%;
+}
+
+section {
+  min-height: 100vh;   /* each section takes full screen height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
+
+/* Mobile override */
+@media (max-width: 768px) {
+  section {
+    min-height: auto;  /* let sections shrink naturally */
+    padding: 3rem 1.5rem;
+  }
+}
+
+/* Light mode (default) */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #222;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Dark mode */
+body.dark-mode {
+  background: #111;
+  color: #eee;
+}
