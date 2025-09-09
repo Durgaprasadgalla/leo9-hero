@@ -55,27 +55,27 @@ This project recreates the **Hero Section and Navbar** of the Leo9 Studio websit
 
 leo9-hero/
 ├── public/
-│   └── vite.svg
+│ └── vite.svg
 ├── src/
-│   ├── assets/
-│   │   └── react.svg
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── About.css
-│   │   ├── Contact.jsx
-│   │   ├── Contact.css
-│   │   ├── Footer.jsx
-│   │   ├── Footer.css
-│   │   ├── Hero.jsx
-│   │   ├── Hero.css
-│   │   ├── Navbar.jsx
-│   │   ├── Navbar.css
-│   │   ├── SectionOne.jsx
-│   │   ├── SectionOne.css
-│   │   ├── SectionTwo.jsx
-│   │   └── SectionTwo.css
-│   ├── App.jsx
-│   └── main.jsx
+│ ├── assets/
+│ │ └── react.svg
+│ ├── components/
+│ │ ├── About.jsx
+│ │ ├── About.css
+│ │ ├── Contact.jsx
+│ │ ├── Contact.css
+│ │ ├── Footer.jsx
+│ │ ├── Footer.css
+│ │ ├── Hero.jsx
+│ │ ├── Hero.css
+│ │ ├── Navbar.jsx
+│ │ ├── Navbar.css
+│ │ ├── SectionOne.jsx
+│ │ ├── SectionOne.css
+│ │ ├── SectionTwo.jsx
+│ │ └── SectionTwo.css
+│ ├── App.jsx
+│ └── main.jsx
 ├── package.json
 ├── vite.config.js
 └── README.md
@@ -177,7 +177,7 @@ If you want, I can also **add a screenshot section and live demo link section** 
 
 Do you want me to do that?
 
-
+## LIVE LINK : https://leo9-hero-io66.vercel.app/
 
 # React + Vite
 
